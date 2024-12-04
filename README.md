@@ -1,4 +1,4 @@
-# Problem Solving Assignment 1
+# COVID-19 Risk
 
 ## Introduction
 

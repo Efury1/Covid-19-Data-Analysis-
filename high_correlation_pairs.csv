@@ -1,0 +1,23 @@
+Variable 1,Variable 2,Correlation
+weight,bmi,0.870479288374343
+bmi,weight,0.870479288374343
+risk_mortality,age_min,0.864154198836982
+risk_mortality,age_max,0.864154198836982
+risk_mortality,age_mean,0.864154198836982
+risk_mortality,age_numerical,0.8119447687221922
+age_min,risk_mortality,0.864154198836982
+age_min,age_max,1.0
+age_min,age_mean,1.0
+age_min,age_numerical,0.9871395040786539
+age_max,risk_mortality,0.864154198836982
+age_max,age_min,1.0
+age_max,age_mean,1.0
+age_max,age_numerical,0.9871395040786539
+age_mean,risk_mortality,0.864154198836982
+age_mean,age_min,1.0
+age_mean,age_max,1.0
+age_mean,age_numerical,0.9871395040786539
+age_numerical,risk_mortality,0.8119447687221922
+age_numerical,age_min,0.9871395040786539
+age_numerical,age_max,0.9871395040786539
+age_numerical,age_mean,0.9871395040786539
