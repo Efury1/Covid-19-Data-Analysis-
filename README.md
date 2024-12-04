@@ -1,5 +1,8 @@
 # COVID-19 Risk
 
+This README provides an overview of a report on the data analysis of COVID-19. In future iterations of this project, the focus would shift towards examining the cultural and personality traits within specific age groups that may influence their heightened susceptibility to contracting COVID-19.
+
+
 ## Introduction
 
 This report outlines the comprehensive steps taken in the data exploration and mining process for Nexoid’s medical dataset, focusing on COVID-19 risk factors and infection statuses. The objective was to analyze, clean, and prepare the dataset to ensure reliable insights in subsequent analysis phases.
