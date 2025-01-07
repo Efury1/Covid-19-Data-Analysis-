@@ -1,5 +1,7 @@
 # COVID-19 Risk
 
+Author: Eliza Fury
+
 This README provides an overview of a report on the data analysis of COVID-19. In future iterations of this project, the focus would shift towards examining the cultural and personality traits within specific age groups that may influence their heightened susceptibility to contracting COVID-19.
 
 
